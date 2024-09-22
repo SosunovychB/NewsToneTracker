@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name '.news-tone-tracker ' is invalid and this project uses 'news_tone_tracker' instead.
+* The original package name '.news-tone-tracker ' is invalid and this project uses 'newsToneTracker' instead.
 
 # Getting Started
 
